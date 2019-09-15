@@ -2,7 +2,7 @@ using DailyCodingProblem;
 using NUnit.Framework;
 using System.Collections.Generic;
 
-namespace Tests
+namespace DailyCodingProblemTests
 {
     public class Problem118Test
     {
